@@ -28,6 +28,8 @@ class _GroceryListState extends State<GroceryList> {
   void _loadItems() async {
     final url = Uri.https(
         'shopping-list-1a-default-rtdb.firebaseio.com', 'Shopping-List.json');
+
+    try{
     final response = await http.get(url);
 
     if (response.statusCode >= 400){
@@ -61,6 +63,16 @@ class _GroceryListState extends State<GroceryList> {
      _groceryItems = loadedItems;  
      _isLoading = false;
     });
+
+
+    } 
+    catch (error){
+      setState(() {
+         _error = 'Something went wrong. Please try again later.';
+      });
+    }   
+
+    
     
   }
 
