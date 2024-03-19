@@ -1,3 +1,6 @@
+//changed settings.gradle, build.gradle
+//updated googlefonts in pubspec.yaml
+
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';
