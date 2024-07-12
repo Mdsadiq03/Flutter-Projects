@@ -1,6 +1,7 @@
 # Meals App
 
 Find your favorite food and explore it's recipe and preparation 
+- RiverPod - Provider
 
 ![Screenshot (162)](https://github.com/Mdsadiq03/Flutter-Projects/assets/95992586/cb1f6687-bf2e-48df-b958-535fd37f9fcd)
 ![Screenshot (163)](https://github.com/Mdsadiq03/Flutter-Projects/assets/95992586/21ea6560-4936-4fa6-8968-1060e564104f)
