@@ -1,6 +1,6 @@
 # expense_tracker
 
-Track Your Expense. Take control of your finance
+Track Your Expense.Take control of your finance
 
 🎨 Beautiful Design: Utilizing custom color schemes and themes for both light/dark modes, the app offers a visually pleasing experience.
 
