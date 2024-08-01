@@ -39,7 +39,7 @@ Find your favorite food and explore it's recipe and preparation
 
 8.MealsScreen:
 -MealsScreen displays a list of meals based on selected categories or favorites.
--It intelligently adjusts content based on available meals, ensuring a seamless user experience.
+-It intelligently adjusts content based on available meals and ensuring a seamless user experience.
 
 9.TabsScreen:
 -The TabsScreen serves as the app's main screen, featuring a bottom navigation bar for easy access to categories and favorites.
