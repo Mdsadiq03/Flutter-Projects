@@ -27,7 +27,7 @@ Find your favorite food and explore it's recipe and preparation
 
 5.CategoriesScreen:
 -This StatefulWidget displays the categories of meals available in the app.
--It utilizes GridView and AnimatedBuilder for smooth transitions, offering users a delightful browsing experience.
+-It utilizes GridView & AnimatedBuilder for smooth transitions, offering users a delightful browsing experience.
 
 6.FiltersScreen:
 -FiltersScreen presents user options for setting filters like gluten-free, lactose-free, vegetarian, and vegan.
