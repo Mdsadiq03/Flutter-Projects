@@ -6,11 +6,13 @@ Track Your Expense.Take control of your finance
 
 📊 Insightful Charts: Visualize your spending habits with interactive charts, to represent each expense category's proportion visually.
 
-📱 Responsive Layout: Designed to work seamlessly across different devices and screen sizes, ensuring accessibility wherever you go.
-
 📝 Effortless Expense Entry: Adding new expenses is a breeze with intuitive form fields & a simple submission process.
 
 🔄 Real-time Updates: Instantly see changes as you add or remove expenses, keeping your financial records up to date.
+
+📱 Responsive Layout: Designed to work seamlessly across different devices and screen sizes, ensuring accessibility wherever you go.
+
+
 
 
 ![pic_1](https://github.com/Mdsadiq03/Flutter-Projects/assets/95992586/8832c30e-8cac-4282-9ccd-d479deee1d4f)
