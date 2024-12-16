@@ -11,7 +11,7 @@ Find your favorite food and explore it's recipe and preparation
 
 1.CategoryGridItem:
 -This class represents the grid item widget for displaying meal categories.
--It leverages Flutter's InkWell for touch feedback & gradient decoration for an eye-catching UI.
+-It leverages Flutter's InkWell for touch feedback and gradient decoration for an eye-catching UI.
 
 2.MainDrawer:
 -The MainDrawer class constructs the app's drawer, providing navigation options.
@@ -23,7 +23,7 @@ Find your favorite food and explore it's recipe and preparation
 
 4.MealItemTrait:
 -A small widget class for displaying meal traits such as duration, complexity, and affordability.
--It enhances readability and provides key information at a glance for each meal item.
+-It enhances readability & provides key information at a glance for each meal item.
 
 5.CategoriesScreen:
 -This StatefulWidget displays the categories of meals available in the app.
@@ -42,5 +42,5 @@ Find your favorite food and explore it's recipe and preparation
 -It intelligently adjusts content based on available meals and ensuring a seamless user experience.
 
 9.TabsScreen:
--The TabsScreen serves as the app's main screen, featuring a bottom navigation bar for easy access to categories and favorites.
--It efficiently manages state and navigation, providing users with smooth and intuitive interaction.
+-The TabsScreen serves as the app's main screen, featuring a bottom navigation bar for easy access to categories & favorites.
+-It efficiently manages state & navigation, providing users with smooth and intuitive interaction.
